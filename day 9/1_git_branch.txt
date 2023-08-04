@@ -1,0 +1,13 @@
+  1. git branch
+  => list all the branches and highlights the active branches
+
+   2. git branches <branch_name> (placeholder)
+    => create a new branhes
+
+    3. git checkout <branch_name>
+    => jumps to the branches name provide
+
+     4. git checkout -b <branch_name>
+     => step 2 and step 3 can br obtained from this command i.e . create
+     a new branches and jump to that newly branch with all the codes from existing branch
+
