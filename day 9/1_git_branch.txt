@@ -11,3 +11,9 @@
      => step 2 and step 3 can br obtained from this command i.e . create
      a new branches and jump to that newly branch with all the codes from existing branch
 
+ 5. git merge <branch_name>
+ => merge the code from the branch name provided to the current branch
+
+
+ 6. git pull
+ => pulls the code from remote branches
