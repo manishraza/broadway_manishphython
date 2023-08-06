@@ -1,0 +1,9 @@
+ merge conflict arises if  we try to merge one branch to another where
+certain line of code  in one branch is committed and the same lines of codes in other branch is also
+committed
+
+
+
+c = 5
+d = 4
+print (c-d)
