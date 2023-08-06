@@ -2,9 +2,6 @@
 certain line of code  in one branch is committed and the same lines of codes in other branch is also
 committed
 
- a = 1
- b = 2
- print (a+b)
 
 
 c = 5
