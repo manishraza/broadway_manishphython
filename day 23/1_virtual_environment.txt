@@ -1,0 +1,8 @@
+# there may be different projects in your system with different requirement of package
+# you are one projects may require pandas version 2.1 whereas other project may require panda version 2.4
+# so to solve this problem we can use the concept of virtual environment
+# virtual environment is a separate environment in your system where we can install
+#package in isolated form for each project
+
+# important commands
+1. python -m venv <name_of_the_environment>
