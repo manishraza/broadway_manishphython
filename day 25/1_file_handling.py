@@ -7,20 +7,20 @@
 # w+ => Write and Read Mode
 
 filename = "message.txt"
-# fp = open(filename, "w")
-# fp.write("Hello World")
-# fp.close()
+fp = open(filename, "w")
+fp.write("Hello World")
+fp.close()
 
 # fp = open(filename, "r")
 # data = fp.read()
 # fp.close()
 # print(data)
 
-fp = open(filename, "r+")
-data = fp.read()
-print(data)
-fp.write(".I'm learning Python")
-fp.close()
+#fp = open(filename, "r+")
+#data = fp.read()
+#print(data)
+#fp.write(".I'm learning Python")
+#fp.close()
 
 
 fp = open(filename, "w+")
