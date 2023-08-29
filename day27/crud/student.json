@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1",
+    "name": "kushi",
+    "age": "12",
+    "address": "ktm"
+  },
+  {
+    "id": "3",
+    "name": "12",
+    "age": "23",
+    "address": "fk"
+  },
+  {
+    "id": "34",
+    "name": "harry",
+    "age": "23",
+    "address": "godar"
+  },
+  {
+    "id": "1",
+    "name": "sunita",
+    "age": "20",
+    "address": "jnk"
+  },
+  {
+    "id": "16",
+    "name": "manish",
+    "age": "19",
+    "address": "godar"
+  }
+]
